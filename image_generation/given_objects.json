@@ -1,0 +1,6 @@
+{
+	"scene": [{"shape": "sphere", "size": "large", "color": "blue", "texture": "metal", "location": [30, 32, 26,  8,  6,  8]},
+		{"shape": "sphere", "size": "large", "color": "brown", "texture": "metal", "location": [38, 32, 19,  8,  6,  8]},
+		{"shape": "sphere", "size": "large", "color": "yellow", "texture": "metal", "location": [19, 32, 20,  8,  6,  8]},
+		{"shape": "cylinder", "size": "large", "color": "red", "texture": "metal", "location": [26, 32, 14,  8,  6,  8]}]
+}
